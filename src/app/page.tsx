@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from "./Components/Header/Header";
-import HeroSection from "./Components/HeroSection/HeroSection";
+import Hero from "./Components/Hero/Hero";
 import Footer from './Components/Footer/Footer';
 
 
@@ -10,8 +10,9 @@ function page() {
   return (
     <>
     <div>
-      <HeroSection></HeroSection>
+
       <Header></Header>
+      <Hero></Hero>
       <Footer></Footer>
     </div>
    

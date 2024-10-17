@@ -1,6 +1,7 @@
-.heroSection {
-   background-color: aqua;
-   margin-top: 30px;
+.hero {
+   
+   margin-top:64px;
+   margin-bottom: 64px;
    text-align: center;
    color: #000;
    font-size: large;
